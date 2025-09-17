@@ -1,7 +1,7 @@
 <h1 align="center">✨ ¡Hola! Soy <span style="color:#fc6695">Saldyard</span> 👋</h1>
 
 <p align="center">
-  🚀 <b>Frontend Developer</b> | Amante del <b>diseño limpio</b> y <b>funcional</b>  
+  🚀 <b>Frontend Developer</b> | Aprendiendo<b>cada día</b>algo<b>nuevo</b>  
 </p>
 
 ---
