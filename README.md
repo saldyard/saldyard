@@ -9,13 +9,13 @@
 ## 🚀 Proyectos Destacados
 <p align="center">
   <a href="https://saldyard.github.io/portfolio/">
-    <img src="portfolio/preview.JPG" alt="Preview Portfolio" width="300" style="border-radius:15px;"/>
+    <img src="portfolio/previewportfolio.jpg" alt="Preview Portfolio" width="300" style="border-radius:15px;"/>
   </a>
   <a href="https://saldyard.github.io/realEstate/">
     <img src="realEstate/web_inmobiliaria.JPG" alt="Preview Real Estate" width="300" style="border-radius:15px;"/>
   </a>
   <a href="https://saldyard.github.io/talleresGR/">
-    <img src="TalleresGR/web_talleres.JPG" alt="Preview Talleres Gómez & Rueda" width="300" style="border-radius:15px;"/>
+    <img src="TalleresGR/web_talleres.PNG" alt="Preview Talleres Gómez & Rueda" width="300" style="border-radius:15px;"/>
   </a>
 </p>
 
