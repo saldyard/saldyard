@@ -29,17 +29,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-## 🚀 Proyectos Destacados
-<p align="center">
-  <a href="https://saldyard.github.io/portfolio/">
-    <img src="portfolio/preview.JPG" alt="Preview Portfolio" width="400" style="border-radius:15px;"/>
-  </a>
-  <a href="https://saldyard.github.io/realEstate/">
-    <img src="realEstate/web_inmobiliaria.JPG" alt="Preview Real Estate" width="400" style="border-radius:15px;"/>
-  </a>
-</p>
 
 ---
 
@@ -55,7 +44,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%23fc6695?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <p align="center">🌸 Gracias por visitar mi perfil 🌸</p>
