@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">✨ ¡Hola! Soy <span style="color:#fc6695">Saldyard</span> 👋</h1>
 
-<!--
-**saldyard/saldyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 <b>Frontend Developer</b> | Amante del <b>diseño limpio</b> y <b>funcional</b>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+<p align="center">
+  <a href="https://saldyard.github.io/portfolio/">
+    <img src="portfolio/preview.JPG" alt="Preview Portfolio" width="300" style="border-radius:15px;"/>
+  </a>
+  <a href="https://saldyard.github.io/realEstate/">
+    <img src="realEstate/web_inmobiliaria.JPG" alt="Preview Real Estate" width="300" style="border-radius:15px;"/>
+  </a>
+  <a href="https://saldyard.github.io/talleresGR/">
+    <img src="TalleresGR/web_talleres.JPG" alt="Preview Talleres Gómez & Rueda" width="300" style="border-radius:15px;"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+<p align="center">
+  <a href="https://saldyard.github.io/portfolio/">
+    <img src="portfolio/preview.JPG" alt="Preview Portfolio" width="400" style="border-radius:15px;"/>
+  </a>
+  <a href="https://saldyard.github.io/realEstate/">
+    <img src="realEstate/web_inmobiliaria.JPG" alt="Preview Real Estate" width="400" style="border-radius:15px;"/>
+  </a>
+</p>
+
+---
+
+## 📫 Conecta Conmigo
+<p align="center">
+  <a href="mailto:jmm.cv.96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/saldyard">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://saldyard.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-%23fc6695?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">🌸 Gracias por visitar mi perfil 🌸</p>
