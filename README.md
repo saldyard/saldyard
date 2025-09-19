@@ -35,11 +35,15 @@
 ## 📫 Conecta Conmigo
 
 <p align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmm.cv.96@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saldyard)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23fc6695?style=for-the-badge&logo=About.me&logoColor=white)](https://saldyard.github.io)
-
+  <a href="mailto:jmm.cv.96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/saldyard">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://saldyard.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-%23fc6695?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </p>
 
 ---
