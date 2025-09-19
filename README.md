@@ -35,9 +35,11 @@
 ## 📫 Conecta Conmigo
 
 <p align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmm.cv.96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saldyard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23fc6695?style=for-the-badge&logo=About.me&logoColor=white)](https://saldyard.github.io)
+
 </p>
 
 ---
