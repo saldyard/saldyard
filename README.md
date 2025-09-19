@@ -38,7 +38,7 @@
   <a href="mailto:jmm.cv.96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/saldyard">
+  <a href="[https://www.linkedin.com/in/josefa-macias]">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://saldyard.github.io">
